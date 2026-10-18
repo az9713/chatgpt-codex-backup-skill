@@ -1,0 +1,17 @@
+# Only publish reviewed source and documentation. Personal backup outputs stay ignored.
+*
+!/.gitignore
+!/.gitattributes
+!/README.md
+!/SKILL.md
+!/Run-Backup.cmd
+!/requirements.txt
+!/agents/
+!/agents/openai.yaml
+!/references/
+!/references/migration.md
+!/scripts/
+!/scripts/backup.py
+!/scripts/backup.ps1
+!/scripts/restore.ps1
+!/scripts/test_backup.py

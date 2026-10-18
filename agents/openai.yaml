@@ -1,0 +1,4 @@
+interface:
+  display_name: "Codex Config and Session Backup"
+  short_description: "Codex settings, sessions and scripts in a ZIP"
+  default_prompt: "Use $chatgpt-codex-backup to back up my Codex config, session history and scripts now to D:\\backups\\chatgpt-codex as a ZIP with receipts; keep the apps open and report locked files."

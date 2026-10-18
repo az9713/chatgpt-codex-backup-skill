@@ -1,0 +1,2 @@
+# Standard ZIP backups use Python 3.11+ and its standard library only.
+# No third-party packages are required.
